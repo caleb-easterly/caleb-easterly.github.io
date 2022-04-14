@@ -21,7 +21,7 @@
 title: Caleb Easterly's Web Site
 email: caleb.easterly@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-	Work in progress
+  Work in progress
 domain: caleb-easterly.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://caleb-easterly.github.io # the base hostname & protocol for your site, e.g. http://example.com
