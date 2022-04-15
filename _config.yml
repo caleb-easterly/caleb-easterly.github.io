@@ -37,6 +37,44 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+# Directories to include
+include: ["_pages"]
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Author
+author: 
+  name:     "Caleb Easterly"
+  avatar:   "assets/images/head.jpg"
+  bio:      "MD/PhD student at UNC-Chapel Hill"
+  location: "Chapel Hill, NC"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/cweasterly"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/caleb-easterly"
+
+# Social
+social:
+  type: Person
+  name: Caleb Easterly
+  links:
+    - "https://twitter.com/cweasterly"
+    - "https://orcid.org/0000-0001-7853-377X"
+
+twitter:
+  username: "cweasterly"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

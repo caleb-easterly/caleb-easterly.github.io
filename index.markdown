@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: single
 ---
+
+I'm an MD/PhD student in the UNC Medical Scientist Training Program.
+
+I'm currently in the PhD phase in the Department of Health Policy and Management in the Gillings School of Global Public Health.
