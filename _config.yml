@@ -18,18 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Caleb Easterly's Web Site
+title: Caleb Easterly
+name: Caleb Easterly
 email: caleb.easterly@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Work in progress
+  Personal site for Caleb Easterly, an MD/PhD student at UNC-Chapel Hill
 domain: caleb-easterly.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://caleb-easterly.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cweasterly
 github_username:  caleb-easterly
+repository: "caleb-easterly/caleb-easterly.github.io"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
