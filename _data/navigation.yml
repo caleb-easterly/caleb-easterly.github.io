@@ -1,4 +1,10 @@
 # main links
-# main:
-  # - title: "About"
-    # url: /about/
+main:
+  - title: "About"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "CV"
+    url: https://1drv.ms/b/s!AkKdKt6sTVoTjAS9jrZradQ05lmh
+
+
